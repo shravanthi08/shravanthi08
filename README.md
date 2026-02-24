@@ -1,8 +1,11 @@
 Hi, I'm Shravanthi 👋
+
 Former Core Banking System Analyst with 6+ years of experience, Now transitioning into an AI-Driven Data Analyst role., 
+
 I specialize in Python, SQL, Tableau, Power BI, and Machine Learning workflows, transforming complex data into actionable business insights. My portfolio bridges domain expertise in banking with modern AI‑driven analytics across finance, retail, healthcare, and supply chain.
 
 📌 Portfolio Highlights
+
 Here are my top projects showcasing diverse analytics and AI applications:
 
 Citi Quantitative Market Analysis → Forecasted market risk exposures using regression models, bridging banking expertise with advanced analytics.
@@ -29,6 +32,7 @@ Business Domains: Banking, Retail, E‑commerce, Healthcare, Supply Chain
 Soft Skills: Workflow design, documentation, mentoring, business communication
 
 🎓 Certifications
+
 Python & SQL - Scaler Academy
 Statistics for Data Science - Simplilearn
 Data Analytics Essentials - CISCO
@@ -39,15 +43,13 @@ GenAI Powered Data Anlaytics Simulation - Tata (Forage)
 Industry Simulations : Citi, Deloitte, Quantium, BCGX (Forage)
 
 📫 Connect with Me
-## 📫 Connect with Me
+
 - [LinkedIn](https://www.linkedin.com/in/shravanthi-lakna)  
 - [Wellfound](https://wellfound.com/u/shravanthi-lakna)  
 - [Foundit Profile](https://www.foundit.in/seeker/profile)  
 - [Ceipal Candidate Portal](https://candidateportal.ceipal.com/applicant_profiles/snapshot/YTVPSW1WSGxPdkFKY01idy81bW1PZz09)  
 - 📧 Email: sravzlakna@gmail.com  
 
-
-Foundit Profile
-
 🎯 Career Impact
+
 My portfolio demonstrates the ability to design end‑to‑end AI‑powered analytics workflows, combining technical depth with business impact. From fraud detection in banking to supply chain optimization and healthcare performance analysis, I showcase versatility, domain knowledge, and readiness for modern data analytics roles.
