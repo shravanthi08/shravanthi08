@@ -1,11 +1,8 @@
 Hi, I'm Shravanthi 👋
 
 Former Core Banking System Analyst with 6+ years of experience, Now transitioning into an AI-Driven Data Analyst 
-
 role., I specialize in Python, SQL, Tableau, Power BI, and Machine Learning workflows, transforming complex data 
-
 into actionable business insights. My portfolio bridges domain expertise in banking with modern AI‑driven 
-
 analytics across finance, retail, healthcare, and supply chain.
 
 📌 Portfolio Highlights
