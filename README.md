@@ -5,34 +5,37 @@ role., I specialize in Python, SQL, Tableau, Power BI, and Machine Learning work
 into actionable business insights. My portfolio bridges domain expertise in banking with modern AI‑driven 
 analytics across finance, retail, healthcare, and supply chain.
 
-📌 Portfolio Highlights
+📌 **Portfolio Highlights**
 
 Here are my top projects showcasing diverse analytics and AI applications:
 
-Citi Quantitative Market Analysis → Forecasted market risk exposures using regression models, bridging banking expertise with advanced analytics.
+**Citi Quantitative Market Analysis** → Forecasted market risk exposures using regression models, bridging banking expertise with advanced analytics.
 
-Credit Card Fraud Detection System → Built ML workflow achieving 92% accuracy in fraud detection, combining SQL anomaly detection with predictive modeling.
+**Credit Card Fraud Detection System** → Built ML workflow achieving 92% accuracy in fraud detection, combining SQL anomaly detection with predictive modeling.
 
-E‑commerce Customer Churn Analysis → Designed SQL + dashboard pipeline to predict churn and visualize customer retention KPIs.
+**E‑commerce Customer Churn Analysis** → Designed SQL + dashboard pipeline to predict churn and visualize customer retention KPIs.
 
-Supply Chain Optimization – AI Hybrid Workflow → Created AI‑augmented workflow reducing forecast error and optimizing delivery routes.
+**Supply Chain Optimization – AI Hybrid Workflow** → Created AI‑augmented workflow reducing forecast error and optimizing delivery routes.
 
-Healthcare Performance Analysis → Two‑phase project combining data analysis and ML segmentation to evaluate healthcare KPIs and predict performance outcomes.
+**Healthcare Performance Analysis** → Two‑phase project combining data analysis and ML segmentation to evaluate healthcare KPIs and predict performance outcomes.
 
-BCGX Data Science Simulation → Applied ML segmentation and classification models to solve real‑world business problems.
+**BCGX Data Science Simulation** → Applied ML segmentation and classification models to solve real‑world business problems.
 
-🛠 Skills 
-Programming & Data: Python, SQL, Big Data
+🛠 **Skills**
 
-Visualization: Tableau
+Languages: Python, SQL.
 
-Machine Learning: Logistic Regression, Random Forest, Hybrid AI workflows
+Visualization: Tableau, Power BI.
+
+Analytics: Data Science, Business Analytics, Big Data.
+
+AI/ML : Generative AI Tools, scikit-learn, Hybrid workflows.
 
 Business Domains: Banking, Retail, E‑commerce, Healthcare, Supply Chain
 
-Soft Skills: Workflow design, documentation, mentoring, business communication
+Soft Skills: Documentation, Workflow, Design, Mentoring, Communication.
 
-🎓 Certifications
+🎓 **Certifications**
 
 Python & SQL - Scaler Academy
 
@@ -58,6 +61,6 @@ Industry Simulations : Citi, Deloitte, Quantium, BCGX (Forage)
 - [Ceipal Candidate Portal](https://candidateportal.ceipal.com/applicant_profiles/snapshot/YTVPSW1WSGxPdkFKY01idy81bW1PZz09)  
 - 📧 Email: sravzlakna@gmail.com  
 
-🎯 Career Impact
+🎯 **Career Impact**
 
-My portfolio demonstrates the ability to design end‑to‑end AI‑powered analytics workflows, combining technical depth with business impact. From fraud detection in banking to supply chain optimization and healthcare performance analysis, I showcase versatility, domain knowledge, and readiness for modern data analytics roles.
+I design end-to-end AI-powered analytics workflows that combine technical depth with business impact. My portfolio demonstrates versatility across domains- from fraud detection in banking to supply chain optimization, customer churn analysis, and healthcare performance analysis. Each project showcases domain knowledge, clear communication, and readiness for modern data analytics roles, highlighting my ability to translate complex data into actionable insights that drive strategic decisions.
